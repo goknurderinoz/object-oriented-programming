@@ -64,4 +64,7 @@
 .history
 .ionide
 
+# Ignore tempCodeRunnerFile.cpp
+tempCodeRunnerFile.cpp
+
 # End of https://www.toptal.com/developers/gitignore/api/executable,visualstudiocode,c++
