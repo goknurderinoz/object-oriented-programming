@@ -14,7 +14,6 @@ void A::getValueA(){
     cout<<"Enter first Number:";
     cin>>num1;
 }
-
 class B{
     private:
         int num2;
